@@ -1,0 +1,4 @@
+step,task,status,action
+#3,Bind the query using => fetch_users.data,--,
+#2,Create a query fetch_users with the Mock DB,--,
+#1,Drop a table,✅,
